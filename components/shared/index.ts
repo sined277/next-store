@@ -4,6 +4,10 @@ import { Title } from "./title";
 import { Categories } from "./categories";
 import { PopupModel } from "./popup-model";
 import { TopBar } from "./top-bar";
+import { Filters } from "./filters";
+import { FilterCheckbox } from "./filter-checkbox";
+import { RangeSlider } from "./rangle-slider";
+import { CheckboxFiltersGroup } from "./checkbox-filters-group";
 
 export {
     Header,
@@ -11,5 +15,9 @@ export {
     Title,
     Categories,
     PopupModel,
-    TopBar
+    TopBar,
+    Filters,
+    FilterCheckbox,
+    RangeSlider,
+    CheckboxFiltersGroup
 }
