@@ -8,6 +8,7 @@ import { Filters } from "./filters";
 import { FilterCheckbox } from "./filter-checkbox";
 import { RangeSlider } from "./rangle-slider";
 import { CheckboxFiltersGroup } from "./checkbox-filters-group";
+import { SearchInput } from "./search-input";
 
 export {
     Header,
@@ -19,5 +20,6 @@ export {
     Filters,
     FilterCheckbox,
     RangeSlider,
-    CheckboxFiltersGroup
+    CheckboxFiltersGroup,
+    SearchInput
 }
